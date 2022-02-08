@@ -1,0 +1,15 @@
+*.pyc
+*.pth
+*.pt
+*.patch
+*.egg-info
+*.egg*
+*.png
+*.jpg
+*.env*
+*.log
+data/*
+log/*
+logs/*
+volume/*
+git_secret
