@@ -29,12 +29,12 @@ Image super resolution.
 2. Run
     - Run with user mode
 
-        ```shell=
+        ```shell
         $ uvicorn main:app --host 0.0.0.0 --port 8000
         ```
 
     - Run with develop mode
 
-        ```shell=
+        ```shell
         $ uvicorn main:app --host 0.0.0.0 --port 8000 --reload
         ```
