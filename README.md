@@ -14,7 +14,7 @@ Image super resolution.
 1. clone from git
 
     ```shell=
-    $ git clone http://10.0.4.52:3000/doris_kao/super_resolution.git
+    $ git clone https://github.com/kaoyuching/super_resolution.git
     $ cd super_resolution
     ```
 
