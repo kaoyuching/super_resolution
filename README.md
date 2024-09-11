@@ -10,6 +10,14 @@ Image super resolution.
 - torchvision
     - [x] 0.9.1
 
+
+## Training datasets
+- [x] freiburg groceries dataset
+- [x] flicker1024
+- [x] DIV2K
+- [ ] shopee2020
+
+
 ## Run service
 1. clone from git
 
